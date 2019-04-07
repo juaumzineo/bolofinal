@@ -62,7 +62,11 @@ dt{
 	font-family: 'ageo_personal_useregular';
 	font-size: 40px;
 	text-shadow: 2px 2px 2px #aaa;
+<<<<<<< HEAD
 	margin: 1cm;	
+=======
+	margin: 1px;	
+>>>>>>> 110d8606678aa3ee7bbd519e553ab01445eae7b2
 }
 dd{
 	margin: 1cm;
